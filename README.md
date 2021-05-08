@@ -6,7 +6,7 @@
 
 ### 本书简介
 
-书中实现了一个简易商城系统的 纯后台 API 项目！适用于目前流行的使**用http或https协议**通信并使用**json作为数据交互**的**restful风格**的**前后端分离**项目。使用的技术栈包括 L N M R R【linux nginx mysql redis ruby 】 等！
+书中实现了一个简易单店外卖系统的 纯后台 API 项目！适用于目前流行的使**用http或https协议**通信并使用**json作为数据交互**的**restful风格**的**前后端分离**项目。使用的技术栈包括 L N M R R【linux nginx mysql redis ruby 】 等！
 
 本书分为13大章节
 
@@ -80,7 +80,7 @@
 
 - [Rails官网](https://rubyonrails.org/) : 十分感激创造出Rails这么优秀的框架，让我感受的语言的优美，编程的快乐。这里有最新的信息和文档，希望大家有时间多逛逛这里。
 - [ruby中国](https://ruby-china.org/) : 这是一个超级友好的社区，里面没有撕逼，只有互相共勉，互相支持，希望更多的人可以喜欢这个社区，我非常感谢这个社区，在这里能够感受到技术人的热情与执着。这个社区还维护着国内的稳定的gem源，感谢作者及团队的默默付出！
-- [Alexandre Rousseau](https://github.com/madeindjs) ：十分改写该作者的文献，该作者的文档写的极具水平，能把知识溶于简单的语言，十分感激。
+- [Alexandre Rousseau](https://github.com/madeindjs) ：十分感谢该作者的文献，该作者的文档写的极具水平，能把知识溶于简单的语言，十分感激与敬佩。
 - [theforeman](https://github.com/theforeman) ：这是一只十分优秀的团队，一直在维护着十分优秀的项目！本书代码的一些灵感来源于该团队的开源项目，十分感激！
 
 ### 期待
