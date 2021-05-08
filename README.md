@@ -6,7 +6,7 @@
 
 ### 本书简介
 
-书中实现了一个简易单店外卖系统的 纯后台 API 项目！适用于目前流行的使**用http或https协议**通信并使用**json作为数据交互**的**restful风格**的**前后端分离**项目。使用的技术栈包括 L N M R R【linux nginx mysql redis ruby 】 等！
+书中实现了一个简易商城系统的 纯后台 API 项目！适用于目前流行的使**用http或https协议**通信并使用**json作为数据交互**的**restful风格**的**前后端分离**项目。使用的技术栈包括 L N M R R【linux nginx mysql redis ruby 】 等！
 
 本书分为13大章节
 
