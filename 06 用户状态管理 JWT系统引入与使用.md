@@ -192,7 +192,10 @@ end
 ##### 4.2.3 设置`Rails`自动加载` lib` 目录下文件
 
 ```ruby
+# 下面两种方法，选择其中一个就好！！！
+# 方式,
 config.autoload_paths += Rails.root.join("lib")
+# 方式2
 config.autoload_paths << Rails.root.join("lib")
 ```
 
@@ -213,9 +216,9 @@ $ git commit -m "add jwt gem"
 
 ---
 
-用户通过email和密码来获得token，这其实就是登录的过程！我们可以设置token有效期默认为24小时！也就是一个token可以用24小时，过期后需要重新登录，淡然我们也可以允许用使用过期的token换取一个新的token，但在该项目中我们不添加此的功能。
+用户通过email和密码来获得token，这其实就是登录的过程！我们可以设置token有效期默认为24小时！也就是一个token可以用24小时，过期后需要重新登录，当然我们也可以允许用使用过期的token换取一个新的token，但在该项目中我们不添加此的功能。
 
-基于以上功能我们卡伊确认我们要实现以下功能：
+基于以上功能我们可以确认我们要实现以下功能：
 
 - 创建 tokens 控制器；
 - 创建相应的路由;
