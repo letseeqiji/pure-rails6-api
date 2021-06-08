@@ -57,6 +57,8 @@
 
   ```shell
   $ rails console
+  # 简写形式
+  $ rails c
   ```
 
 - 创建一个复数的资源路由
@@ -100,7 +102,7 @@
   http://www.demo.com/users  -->  http://www.demo.com/api/users
   ```
   
-  而对于命名空间`api`, 我们应该建立文件夹 `项目/app/controller/api`与其对应。
+  而对于命名空间`api`, 我们应该建立文件夹   `项目/app/controller/api`   与其对应。
 
 
 
@@ -115,7 +117,7 @@
 - 切换到制定分支
 
   ```shell
-  $ git checkout 新分支名字
+  $ git checkout 目标分支名字
   ```
 
 - 切换到主分支
@@ -200,6 +202,8 @@ end
 $ mkdir app/controllers/api/v1
 ```
 
+>  以上命令会创建目录： app/controllers/api/v1
+
 
 
 ##### 2.3.5 设置请求参数格式为 `json`
@@ -214,6 +218,8 @@ Rails.application.routes.draw do
 end
 ```
 
+
+
 #### 2.4 文件版本管理
 
 ##### 2.4.1 添加所有变动文件到git管理
@@ -221,6 +227,8 @@ end
 ```shell
 $ git add .
 ```
+
+> 以上命令是我常使用的命令，您可以其它相同命令来代替
 
 
 
@@ -238,6 +246,8 @@ $ git commit -m "set the routes constraints for the API"
 $ git checkout master
 $ git merge chapter02
 ```
+
+> 以上命令会把 chaptor02 分支合并到 master 分支
 
 
 
