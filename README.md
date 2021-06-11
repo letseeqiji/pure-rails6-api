@@ -91,8 +91,8 @@
 | 等你哦伙伴++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ |
 | ------------------------------------------------------------ |
 | <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/Funggg.png?raw=true" alt="avatar" />   [TerryFunggg](https://github.com/TerryFunggg) |
-| ![avatar]() [kba977](https://github.com/kba977)              |
-| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/qijige.png?raw=true" alt="avatar"  />    [letseeqiji](https://github.com/letseeqiji) |
+| ![avatar](https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/kba977.png?raw=true)   [kba977](https://github.com/kba977) |
+| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/qijige.png?raw=true" alt="avatar"  />   [letseeqiji](https://github.com/letseeqiji) |
 
 ---
 
