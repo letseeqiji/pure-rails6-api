@@ -2,8 +2,8 @@
 
 | **本书参与者【排名不分先后】**  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ |
 | ------------------------------------------------------------ |
-| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/funggg.png?raw=true" alt="avatar" style="zoom: 50%;" />   [TerryFunggg](https://github.com/TerryFunggg) |
-| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/qiji.png?raw=true" alt="avatar" style="zoom:50%;" />    [letseeqiji](https://github.com/letseeqiji) |
+| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/Funggg.png?raw=true" alt="avatar" />   [TerryFunggg](https://github.com/TerryFunggg) |
+| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/qijige.png?raw=true" alt="avatar"  />    [letseeqiji](https://github.com/letseeqiji) |
 
 ---
 
