@@ -337,7 +337,7 @@ end
 - 失败性测试：使用正确的email，错误的password请求，期望：http状态码返回401.
 
   ```ruby
-  test "create fail: create token with legal email and unlegal password" do
+  test "create fail: create token with legal email and illegal password" do
       post api_v1_tokens_path, params:{user:{email:@user_one.email, password:"123"}}, as: :json
       assert_response 401
   end
@@ -401,7 +401,7 @@ end
 $ rails test
 # Running:
 Error:
-Api::V1::TokensControllerTest#test_create_fail:_create_token_with_legal_email_and_unlegal_password:
+Api::V1::TokensControllerTest#test_create_fail:_create_token_with_legal_email_and_illegal_password:
 BCrypt::Errors::InvalidHash: invalid hash
     app/controllers/api/v1/tokens_controller.rb:5:in `create'
     test/controllers/api/v1/tokens_controller_test.rb:17:in `block in <class:TokensControllerTest>'
