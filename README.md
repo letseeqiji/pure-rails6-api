@@ -1,11 +1,5 @@
 # 使用rails6 开发纯后端 API 项目
 
-| **本书参与者【排名不分先后】**  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ |
-| ------------------------------------------------------------ |
-| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/Funggg.png?raw=true" alt="avatar" />   [TerryFunggg](https://github.com/TerryFunggg) |
-| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/qijige.png?raw=true" alt="avatar"  />    [letseeqiji](https://github.com/letseeqiji) |
-
----
 
 ## 前言
 
@@ -89,6 +83,19 @@
 - [ruby中国](https://ruby-china.org/) : 这是一个超级友好的社区，里面没有撕逼，只有互相共勉，互相支持，希望更多的人可以喜欢这个社区，我非常感谢这个社区，在这里能够感受到技术人的热情与执着。这个社区还维护着国内的稳定的gem源，感谢作者及团队的默默付出！
 - [Alexandre Rousseau](https://github.com/madeindjs) ：十分感谢该作者的文献，该作者的文档写的极具水平，能把知识溶于简单的语言，十分感激与敬佩。
 - [theforeman](https://github.com/theforeman) ：这是一只十分优秀的团队，一直在维护着十分优秀的项目！本书代码的一些灵感来源于该团队的开源项目，十分感激！
+
+
+
+###  本书参与者【排名不分先后】
+
+| 等你哦伙伴++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ |
+| ------------------------------------------------------------ |
+| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/Funggg.png?raw=true" alt="avatar" />   [TerryFunggg](https://github.com/TerryFunggg) |
+| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/qijige.png?raw=true" alt="avatar"  />    [letseeqiji](https://github.com/letseeqiji) |
+
+---
+
+
 
 ### 期待
 
