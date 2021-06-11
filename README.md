@@ -2,8 +2,8 @@
 
 | **本书参与者【排名不分先后】**  ++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++ |
 | ------------------------------------------------------------ |
-| [TerryFunggg](https://github.com/TerryFunggg)                |
-| [letseeqiji](https://github.com/letseeqiji)                  |
+| ![avatar](https://avatars.githubusercontent.com/u/41190384?s=64&v=4)[TerryFunggg](https://github.com/TerryFunggg) |
+| ![avatar](https://avatars.githubusercontent.com/u/51554380?s=48&v=4)    [letseeqiji](https://github.com/letseeqiji) |
 
 ---
 
