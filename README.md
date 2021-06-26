@@ -93,7 +93,7 @@
 | <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/Funggg.png?raw=true" alt="avatar" />   [TerryFunggg](https://github.com/TerryFunggg) |
 | ![avatar](https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/kba977.png?raw=true)   [kba977](https://github.com/kba977) |
 | <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/Kaizhao%20Zhang.png?raw=true" alt="avatar"  />   [Kaizhao Zhang](https://github.com/zhangkaizhao)      |
-| <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/Kaizhao%20Zhang.png?raw=true" alt="avatar"  />   [VictorNanka](https://github.com/VictorNanka)      |
+| <img src="https://raw.githubusercontent.com/letseeqiji/pure-rails6-api/main/resources/avatar/VictorNanka.png" alt="avatar"  />   [VictorNanka](https://github.com/VictorNanka)      |
 | <img src="https://github.com/letseeqiji/pure-rails6-api/blob/main/resources/avatar/qijige.png?raw=true" alt="avatar"  />   [letseeqiji](https://github.com/letseeqiji)                                              |
 
 ---
