@@ -191,6 +191,8 @@ end
 
 ##### 4.2.3 设置`Rails`自动加载` lib` 目录下文件
 
+`config/application.rb`
+
 ```ruby
 # 下面两种方法，选择其中一个就好！！！
 # 方式,
